@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mathematics+And+Computing+Student+IIT+Guwahati;Full+Stack+Web+Developer;Ml%20|%20DS%20|%20AppDev%20Beginner;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a B.Tech in Mathematics And Computing Student at Indian Insitute of Technology, Guwahati. I have explored various fields of technology like Web Development(HTML, CSS, Node.js, Django) , App Development(Android Studio/Java) and Machine Learning(Tensorflow/Keras, OpenCV).</h4>
+<h4 align="center">I am a B.Tech in Mathematics And Computing Student at Indian Insitute of Technology, Guwahati. I have explored various fields of technology like Web Development(HTML, CSS, Node.js, Django) , App Development(Android Studio/Java) and Machine Learning(Tensorflow/Keras, OpenCV). I also participate in Competitive programming on a regular basis.</h4>
 <br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gitanjit&label=Profile%20views&color=0e75b6&style=plastic" alt="Gitanjit" /> </p> -->
 
