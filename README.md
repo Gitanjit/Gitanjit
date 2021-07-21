@@ -1,16 +1,23 @@
 
 <h1 align="center">Hi , I'm Gitanjit Medhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mathematics+And+Computing+Student+IIT+Guwahati;Full+Stack+Web+Developer;Ml%20|%20DS%20|%20AppDev%20Beginner;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mathematics+And+Computing+Student+IITG;Full+Stack+Web+Developer;Ml%20|%20DS%20|%20AppDev%20Beginner;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a B.Tech in Mathematics And Computing Student at Indian Insitute of Technology, Guwahati. I have explored various fields of technology like Web Development(HTML, CSS, Node.js, Django) , App Development(Android Studio/Java) and Machine Learning(Tensorflow/Keras, OpenCV). I also participate in Competitive programming on a regular basis.</h4>
 <br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gitanjit&label=Profile%20views&color=0e75b6&style=plastic" alt="Gitanjit" /> </p> -->
 
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanjit&theme=algolia" alt="Gitanjit"  /></p>
 
+---
+### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{Gitanjit}/count.svg)
+
+
+---
 
 ## 🛠️ My Skills
 
@@ -126,6 +133,12 @@
 	<a href="https://github.com/Gitanjit"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/gitanjit-medhi-334737196/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
+# Below are my repositories:
+
+<div align="center">
+<img align="center" src="https://emoji.gg/assets/emoji/7524_this_animated_bottom.gif">
+ </div>
 
 <hr/>
 
